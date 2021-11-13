@@ -1,0 +1,76 @@
+id_municipio,id_municipio_6,id_municipio_tse,id_municipio_rf,id_municipio_bcb,nome,capital_uf,id_comarca,id_regiao_saude,regiao_saude,id_regiao_imediata,regiao_imediata,id_regiao_intermediaria,regiao_intermediaria,id_microrregiao,microrregiao,id_mesorregiao,mesorregiao,ddd,id_uf,sigla_uf,nome_uf,regiao
+2800100,280010,31011,3101,25690,Amparo de São Francisco,0,2801603,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2800209,280020,31038,3103,40008,Aquidabã,0,2800209,28007,Propriá,280003,Propriá,2801,Aracaju,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2800308,280030,31054,3105,13530,Aracaju,1,2800308,28001,Aracaju,280001,Aracaju,2801,Aracaju,28011,Aracaju,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2800407,280040,31070,3107,26486,Arauá,0,2800407,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2800506,280050,31097,3109,30960,Areia Branca,0,2803609,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2800605,280060,31119,3111,31880,Barra dos Coqueiros,0,2800605,28001,Aracaju,280001,Aracaju,2801,Aracaju,28011,Aracaju,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2800670,280067,31151,3115,30764,Boquim,0,2800670,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2800704,280070,31135,3113,40015,Brejo Grande,0,2804904,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801009,280100,31194,3119,9960,Campo do Brito,0,2801009,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2801108,280110,31216,3121,14261,Canhoba,0,2802403,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801207,280120,31232,3123,18652,Canindé de São Francisco,0,2801207,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2801306,280130,31259,3125,23283,Capela,0,2801306,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28008,Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801405,280140,31275,3127,27739,Carira,0,2801405,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2801504,280150,31291,3129,32236,Carmópolis,0,2801504,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801603,280160,31313,3131,38175,Cedro de São João,0,2801603,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801702,280170,31330,3133,4202,Cristinápolis,0,2801702,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2801900,280190,31372,3137,13822,Cumbe,0,2804607,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2802007,280200,31399,3139,16410,Divina Pastora,0,2805901,28001,Aracaju,280001,Aracaju,2801,Aracaju,28008,Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2802106,280210,31410,3141,22497,Estância,0,2802106,28002,Estância,280002,Estância,2801,Aracaju,28013,Estância,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2802205,280220,31437,3143,24701,Feira Nova,0,2804508,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2802304,280230,31453,3145,31055,Frei Paulo,0,2802304,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2802403,280240,31496,3149,32432,Gararu,0,2802403,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2802502,280250,31470,3147,38209,General Maynard,0,2801504,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2802601,280260,31518,3151,,Gracho Cardoso,0,2800209,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2802700,280270,31534,3153,8521,Ilha das Flores,0,2804904,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2802809,280280,31550,3155,12531,Indiaroba,0,2802809,28002,Estância,280002,Estância,2801,Aracaju,28013,Estância,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2802908,280290,31577,3157,18140,Itabaiana,0,2802908,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2803005,280300,31593,3159,22655,Itabaianinha,0,2803005,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2803104,280310,31615,3161,27007,Itabi,0,2802403,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2803203,280320,31631,3163,31419,Itaporanga d'Ajuda,0,2803203,28001,Aracaju,280001,Aracaju,2801,Aracaju,28013,Estância,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2803302,280330,31658,3165,32566,Japaratuba,0,2803302,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28009,Japaratuba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2803401,280340,31674,3167,37004,Japoatã,0,2804409,28007,Propriá,280003,Propriá,2801,Aracaju,28009,Japaratuba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2803500,280350,31690,3169,1621,Lagarto,0,2803500,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28006,Agreste de Lagarto,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2803609,280360,31712,3171,7230,Laranjeiras,0,2803609,28001,Aracaju,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2803708,280370,31739,3173,10430,Macambira,0,2801009,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2803807,280380,31755,3175,14814,Malhada dos Bois,0,2801603,28007,Propriá,280003,Propriá,2801,Aracaju,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2803906,280390,31771,3177,19101,Malhador,0,2803906,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2804003,280400,31798,3179,23630,Maruim,0,2804003,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2804102,280410,31810,3181,30537,Moita Bonita,0,2803906,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2804201,280420,31836,3183,,Monte Alegre de Sergipe,0,2804508,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2804300,280430,31852,3185,40596,Muribeca,0,2800209,28007,Propriá,280003,Propriá,2801,Aracaju,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2804409,280440,31879,3187,2589,Neópolis,0,2804409,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2804458,280445,31356,3135,26280,Nossa Senhora Aparecida,0,2806008,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2804508,280450,31895,3189,8923,Nossa Senhora da Glória,0,2804508,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2804607,280460,31917,3191,12902,Nossa Senhora das Dores,0,2804607,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2804706,280470,31933,3193,17361,Nossa Senhora de Lourdes,0,2802403,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2804805,280480,31950,3195,21766,Nossa Senhora do Socorro,0,2804805,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28011,Aracaju,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2804904,280490,31976,3197,23898,Pacatuba,0,2804904,28007,Propriá,280003,Propriá,2801,Aracaju,28009,Japaratuba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2805000,280500,31992,3199,29294,Pedra Mole,0,2802304,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2805109,280510,32018,3201,33871,Pedrinhas,0,2800407,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2805208,280520,32034,3203,38780,Pinhão,0,2802304,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2805307,280530,32050,3205,3052,Pirambu,0,2803302,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28009,Japaratuba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2805406,280540,32077,3207,9001,Poço Redondo,0,2805406,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2805505,280550,32093,3209,12957,Poço Verde,0,2805505,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28005,Tobias Barreto,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2805604,280560,32115,3211,17433,Porto da Folha,0,2805604,28005,Nossa Senhora da Glória,280006,Nossa Senhora da Glória,2802,Itabaiana,28001,Sergipana do Sertão do São Francisco,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2805703,280570,32131,3213,22318,Propriá,0,2805703,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2805802,280580,32158,3215,25298,Riachão do Dantas,0,2805802,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28006,Agreste de Lagarto,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2805901,280590,32174,3217,29823,Riachuelo,0,2805901,28001,Aracaju,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806008,280600,32190,3219,34351,Ribeirópolis,0,2806008,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28002,Carira,2801,Sertão Sergipano,79,28,SE,Sergipe,Nordeste
+2806107,280610,32212,3221,39806,Rosário do Catete,0,2801504,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806206,280620,32239,3223,1803,Salgado,0,2803203,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806305,280630,32255,3225,7436,Santa Luzia do Itanhy,0,2802809,28002,Estância,280002,Estância,2801,Aracaju,28013,Estância,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806404,280640,31003,2647,41423,Santana do São Francisco,0,2804409,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806503,280650,32298,3229,15143,Santa Rosa de Lima,0,2805901,28001,Aracaju,280001,Aracaju,2801,Aracaju,28008,Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806602,280660,32310,3231,19596,Santo Amaro das Brotas,0,2804003,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28010,Baixo Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806701,280670,32336,3233,23991,São Cristóvão,0,2806701,28001,Aracaju,280001,Aracaju,2801,Aracaju,28011,Aracaju,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2806800,280680,32352,3235,28398,São Domingos,0,2801009,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28004,Agreste de Itabaiana,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2806909,280690,32379,3237,32937,São Francisco,0,2801603,28007,Propriá,280003,Propriá,2801,Aracaju,28009,Japaratuba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2807006,280700,32395,3239,37420,São Miguel do Aleixo,0,2806008,28003,Itabaiana,280004,Itabaiana,2802,Itabaiana,28003,Nossa Senhora das Dores,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2807105,280710,32417,3241,3090,Simão Dias,0,2807105,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28005,Tobias Barreto,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2807204,280720,32433,3243,5971,Siriri,0,2804607,28006,Nossa Senhora do Socorro,280001,Aracaju,2801,Aracaju,28008,Cotinguiba,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2807303,280730,32450,3245,11745,Telha,0,2801603,28007,Propriá,280003,Propriá,2801,Aracaju,28007,Propriá,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2807402,280740,32476,3247,17543,Tobias Barreto,0,2807402,28004,Lagarto,280005,Lagarto,2802,Itabaiana,28005,Tobias Barreto,2802,Agreste Sergipano,79,28,SE,Sergipe,Nordeste
+2807501,280750,32492,3249,21931,Tomar do Geru,0,2801702,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste
+2807600,280760,32514,3251,25676,Umbaúba,0,2807600,28002,Estância,280002,Estância,2801,Aracaju,28012,Boquim,2803,Leste Sergipano,79,28,SE,Sergipe,Nordeste

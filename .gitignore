@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .gitattributes
 .DS_Store
-input/casos_obitos_se.csv
+testes/
 code/ProcessaDadosObitos.ipynb
+input/casos_obitos_se.csv

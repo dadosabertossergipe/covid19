@@ -2,5 +2,4 @@
 .gitattributes
 .DS_Store
 testes/
-code/ProcessaDadosObitos.ipynb
-input/casos_obitos_se.csv
+br-se-covid19-casos-obitos/

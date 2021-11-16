@@ -1,4 +1,4 @@
-data,codigo_municipio,city,casos_confirmados_total,casos_confirmados_diarios,obitos_confirmados_total,obitos_confirmados_diarios,casos_media_movel,obitos_media_movel
+data,codigo_municipio,nome_municipio,casos_confirmados_total,casos_confirmados_diarios,obitos_confirmados_total,obitos_confirmados_diarios,casos_media_movel,obitos_media_movel
 2020-05-10,2800100,Amparo de São Francisco,1,1,0,0,,
 2020-05-11,2800100,Amparo de São Francisco,1,0,0,0,,
 2020-05-12,2800100,Amparo de São Francisco,1,0,0,0,,

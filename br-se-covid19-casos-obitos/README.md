@@ -1,6 +1,6 @@
 # Dados de Casos e Óbitos
 
-Nesta pasta você encontra os scripts de processamento dos dados de casose  óbitos do Estado de Sergipe. Os dados foram coletados direto do site do [https://brasio.io](brasil.io) que coleta, organiza e publica dados de casos e óbitos de todo o Brasil a nível de município. Os dados utilizados aqui são apenas um recorte dos dados completos filtrando pelo estado de Sergipe. O site atualiza diariamente os dados.
+Nesta pasta você encontra os scripts de processamento dos dados de casos e  óbitos do Estado de Sergipe. Os dados foram coletados direto do site do [https://brasio.io](brasil.io) que coleta, organiza e publica dados de casos e óbitos de todo o Brasil a nível de município. Os dados utilizados aqui são apenas um recorte dos dados completos filtrando pelo estado de Sergipe. O site atualiza diariamente os dados.
 
 ## Organização 
 
@@ -19,12 +19,9 @@ Essa pasta está organizada na seguinte estrutura:
 | data | data de divulgacao do boletim | String no formato `YYYY-MM-DD` | |
 | codigo_municipio | código de identificação do munícipio de acordo com a classificação do IBGE | Número inteiro de 7 dígitos | |
 | nome_municipio | nome do município | String | |
-| enviadas_dose1 | total de doses enviadas ao município pela secretaria estadual para aplicação da primeira dose | Número inteiro | Esses dados só estão disponíveis a partir de 09/02/21  |
-| enviadas_dose2 | total de doses enviadas ao município pela secretaria estadual para aplicação da segunda dose | Número inteiro | |
-| enviadas_dose_unica | total de doses enviadas ao município pela secretaria estadual para aplicação da dose única | Número inteiro | |
-| enviadas_dose_reforco | total de doses enviadas ao município pela secretaria estadual para aplicação da dose de reforço | Número inteiro | |
-| aplicadas_dose1 | total de doses (primeira dose) aplicadas pelo município | Número inteiro | |
-| aplicadas_dose2 | total de doses (segunda dose) aplicadas pelo município | Número inteiro | |
-| aplicadas_dose_unica | total de doses (dose única) aplicadas pelo município | Número inteiro | |
-| aplicadas_dose_reforco | total de doses (dose de reforço) aplicadas pelo município | Número inteiro | |
-
+| casos confirmados_total | total de casos confirmados no município.  | Número inteiro | Esses dados são acumulativos. Ou seja, o valor de um dia representa o total de casos registrados até o dia anterior mais o total registrado no dia. |
+| casos_confirmados_diarios | total de casos confirmados naquele dia. | Número inteiro | |
+| obitos_confirmados_total | total de óbitos confirmados no município. | Número inteiro | Esses dados são acumulativos. Ou seja, o valor de um dia representa o total de óbitos registrados até o dia anterior mais o total registrado no dia. |
+| obitos_confirmados_diarios | total de óbitos confirmados naquele dia. | Número inteiro | |
+| casos_media_movel | média móvel de 7 dias calculada a partir do campo `casos_confirmados_diarios` | Número inteiro | A média móvel é calculada dentro de cada município.  |
+| obitos_media_movel | média móvel de 7 dias calculada a partir do campo `obitos_confirmados_diarios` | Número inteiro | A média móvel é calculada dentro de cada município. |

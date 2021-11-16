@@ -22,7 +22,6 @@ Essa pasta está organizada na seguinte estrutura:
 * `input`: pasta com os dados originais e sem alterações que foram extraídos direto do site https://todoscontraocorona.net.br/. Essa pasta também contém outros dados de entrada que são usados no processamento. Esses arquivos nunca são modificados. 
 * `output`: pasta com os arquivos de saída resultados da etapa de processamento. Esses arquivos não são modificados manualmente também. Sempre são gerados a partir dos scripts de processamento. 
 * `tmp`: arquivos temporários gerados durante a etapa de processamento dos dados. 
-* `extra`: arquivos extras, incluindo o dicionário dos dados.
 
 ## Estrutura dos Arquivos 
 

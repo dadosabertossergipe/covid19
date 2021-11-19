@@ -4,7 +4,6 @@ Repositório com os códigos de processamentos dos dados da COVID-19 do estado d
 
 ## Dados disponíveis: 
 
-* [Dados de Casos e Óbitos](br-se-covid19-casos-obitos/)
 * [Dados da Vacinação](br-se-covid19-vacinacao/)
 
 

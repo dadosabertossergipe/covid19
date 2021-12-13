@@ -5,3 +5,4 @@ testes/
 br-se-covid19-casos-obitos/
 br-se-covid19-scrapy/
 br-se-covid19-parserpdf/
+.idea/

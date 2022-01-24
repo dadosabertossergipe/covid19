@@ -12,7 +12,7 @@ O arquivo atualmente conta com as seguintes informações:
 * Total de doses recebidas pelo município: essa infomação está distribuída de acordo com o tipo de dose aplicada: dose 1, dose 2, dose única, dose de reforço.
 * Total de doses aplicadas pelo município: essa informação está distribuída de acordo com o tipo de dose aplicada: dose 1, dose 2, dose única,, dose de reforço. 
 
-Mais detalhes sobre as colunas pode ser encontrada no final desse README. 
+Mais detalhes sobre as colunas pode ser encontrada no final deste README. 
 
 ## Organização 
 

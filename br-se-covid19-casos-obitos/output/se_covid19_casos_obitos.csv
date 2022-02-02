@@ -1,4 +1,4 @@
-date,epidemiological_week,last_available_confirmed,last_available_deaths,new_confirmed,new_deaths,mean7_confirmed,mean7_deaths
+data,semana_epidemiologica,total_casos_confirmados,total_obitos_confirmados,diario_casos_confirmados,diario_obitos_confirmados,media_movel7_casos,media_movel7_obitos
 2020-03-14,202011,1,0,1,0,,
 2020-03-15,202012,1,0,0,0,,
 2020-03-16,202012,5,0,4,0,,
